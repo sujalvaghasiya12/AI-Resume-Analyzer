@@ -74,13 +74,4 @@ resume_analyzer/
 
 </pre>
 
-## 🔮 Future Enhancements
-<pre>
 
-✨ Add ChatGPT / LLM-powered Resume Feedback
-✨ Integrate Job Description Matcher
-✨ Include Visual Resume Generator (PDF)
-✨ Add Multi-language Resume Support
-✨ Deploy on Streamlit Cloud or Hugging Face Spaces
-
-</pre>
